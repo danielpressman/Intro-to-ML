@@ -1,5 +1,4 @@
-STAT 37711 - Introduction to Machine Learning and AI
-Prof. Victor Veitch
+Introduction to Machine Learning
 Fall 2026
 
-Daniel Pressman's repo for homework submissions
+D.P.'s repo for homework submissions
